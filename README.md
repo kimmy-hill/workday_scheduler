@@ -19,5 +19,7 @@ THEN the saved events persist.
 Starter Code from https://github.com/coding-boot-camp/super-disco
 
 Mock-Up
+<img width="1512" alt="Screen Shot 2022-01-30 at 9 10 46 PM" src="https://user-images.githubusercontent.com/95260935/151729913-0f439f4f-2980-4a6c-a14b-4732bdc30979.png">
 
 Deployed URL:
+https://kimmy-hill.github.io/workday_scheduler/
